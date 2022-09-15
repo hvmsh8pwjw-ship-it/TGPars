@@ -40,7 +40,7 @@ Telegram spamer, inviter and parser
 
 # Usage
 * Pars
-  * `python pars.py`
+  * `python pars.py`     парсит пока только чаты!!! и вся работа этих скриптов акцентирована на чатак! попробывать найти то же самое с каналами 
 * Invite
   * `python invite.py members.csv`
 * Spam
